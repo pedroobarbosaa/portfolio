@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run *)",
+      "Bash(Get-Content \"C:\\\\Users\\\\barbo\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\d--portfolio\\\\34a1045c-350b-4882-a5c3-6462ae3884d7\\\\tasks\\\\b6v86tu9i.output\")",
+      "Bash(python -c \"import sys,json; d=json.load\\(sys.stdin\\); print\\(d.get\\('version','?'\\)\\)\")",
+      "Bash(npm install *)"
+    ]
+  }
+}
