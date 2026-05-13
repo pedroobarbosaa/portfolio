@@ -12,7 +12,7 @@ It showcases my professional experience, personal projects, certifications, and 
 
 The design follows an Apple-inspired minimalist aesthetic with alternating Aurora Background sections, smooth Motion animations, and components sourced from [21st.dev](https://21st.dev).
 
-**Live:** `coming soon` — deploying to Vercel with custom domain
+**Live:** [pedrofreire.dev](https://pedrofreire.dev/)
 
 ---
 
