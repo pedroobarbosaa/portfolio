@@ -9,7 +9,7 @@ export default function Certifications() {
   return (
     <section
       id="certifications"
-      className="bg-muted/40 py-24"
+      className="bg-muted/40 py-16 md:py-24"
     >
       <div className="max-w-6xl mx-auto px-6">
 

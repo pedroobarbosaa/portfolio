@@ -53,13 +53,13 @@ export default function Nav() {
         </a>
       </nav>
 
-      {/* Mobile: just the CTA */}
-      <a
-        href="mailto:barbosaapedroo@gmail.com"
+      {/* Mobile: scroll to contact section */}
+      <button
+        onClick={() => document.getElementById("contact")?.scrollIntoView({ behavior: "smooth" })}
         className="cursor-pointer rounded-full bg-[#0066cc] px-[16px] py-[7px] text-[13px] text-white md:hidden"
       >
         Contact
-      </a>
+      </button>
     </header>
   );
 }

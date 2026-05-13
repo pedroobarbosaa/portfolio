@@ -46,7 +46,7 @@ export default function Projects() {
         id="projects"
         showRadialGradient={false}
         auroraOpacity="opacity-[0.15]"
-        className="pt-24 pb-0 h-auto min-h-0"
+        className="pt-16 md:pt-24 pb-0 h-auto min-h-0"
       >
         <div
           className="max-w-6xl mx-auto px-6 w-full"
@@ -169,7 +169,7 @@ export default function Projects() {
       </AuroraBackground>
 
       {/* ── DATA & ANALYTICS + FREELANCE (gray) ── */}
-      <section className="bg-muted/40 py-24">
+      <section className="bg-muted/40 py-16 md:py-24">
         <div className="max-w-6xl mx-auto px-6">
 
           {/* DATA & ANALYTICS */}

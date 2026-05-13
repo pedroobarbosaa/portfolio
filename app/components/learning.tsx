@@ -33,7 +33,7 @@ export default function Learning() {
       id="learning"
       showRadialGradient={false}
       auroraOpacity="opacity-[0.15]"
-      className="py-24 h-auto min-h-0"
+      className="py-16 md:py-24 h-auto min-h-0"
     >
       <div className="max-w-6xl mx-auto px-6 w-full" style={{ position: "relative", zIndex: 10 }}>
 
