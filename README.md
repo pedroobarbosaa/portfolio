@@ -130,3 +130,8 @@ Data Analyst · Brasília, Brazil · Open to remote
 ---
 
 *Built with Claude Code + UI/UX Pro Max Skill + 21st.dev components.*
+
+##Need to change something?
+##git add .
+##git commit -m "descrição da mudança"
+##git push
